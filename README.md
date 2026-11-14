@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🇲🇾 下水网 · 马来西亚休闲与夜生活资讯指南
 
-<!--
-**xiashuichang/xiashuichang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎访问！这里是 **[下水网 (xiashui.vip)](https://xiashui.vip)** 的官方信息汇总页。我们致力于整理和分享马来西亚各地的本地生活、休闲水疗与夜生活实用指南。
 
-Here are some ideas to get you started:
+#### 📌 核心内容板块
+- **场所与水疗指南：** 汇总吉隆坡（KL）、新山（JB）等热门城市的下水场、洗浴中心及水疗场所的设施环境与公开资料。
+- **按摩与体验攻略：** 详细对比不同按摩项目、服务流程、预约注意事项以及避坑建议。
+- **本地旅行与真实分享：** 汇集真实体验报告（FR）与行程安排建议，帮助游客和本地玩家高效获取实用信息。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔗 快速访问
+- **官方网站：** [https://xiashui.vip](https://xiashui.vip)
+- **全部指南与攻略：** [点击浏览马来西亚夜生活与按摩指南](https://xiashui.vip)
+
+---
+*持续更新马来西亚本地休闲资讯，让每次出行与体验都更省心。*
